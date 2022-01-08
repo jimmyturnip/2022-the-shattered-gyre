@@ -16,6 +16,10 @@ Pirates operating out of Marrow Citadel. See Sample Sector sheet.
 
 A member of Buzzard's crew on the Dawn's Herald. Got turned into a mutant freak.
 
+## Sorsha
+
+Kylar's glowcat companion.
+
 ## Sparrowhawk
 
 Albatross' ship.

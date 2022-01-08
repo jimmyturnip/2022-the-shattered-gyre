@@ -14,23 +14,25 @@ Scavenger who escaped from an attack by the Fire Talons. Now seeks revenge on th
 - Shadow +1
 - Wits +3
 
-- Momentum +6 (max +10, reset +2)
-- Health +1
+---
+
+- Momentum +3 (max +10, reset +2)
+- Health +4
 - Spirit +5
-- Supply +3
+- Supply +5
 
 
 
 ## Vows
 
 Make the Fire Talons pay for murdering my former crewmates. Epic.  
-[-][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+`[-][ ][ ][ ][ ][ ][ ][ ][ ][ ]`
 
-Return Buzzard to Pinnacle Station. Dangerous.  
-[ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+Return Buzzard to Pinnacle Station. Formidable.  
+`[#][#][ ][ ][ ][ ][ ][ ][ ][ ]`
 
 COMPLETE Find Brianna Keelan's ship in the Maelstrom and warn her of an ambush by the Fire Talons. Dangerous.  
-[#][#][#][#][#][#][#][#][ ][ ]
+`[#][#][#][#][#][#][#][#][ ][ ]`
 
 
 
@@ -53,16 +55,18 @@ COMPLETE Find Brianna Keelan's ship in the Maelstrom and warn her of an ambush b
 ## Connections
 
 Brianna "Buzzard" Keelan, Maelstrom scavenger. Dangerous.  
-[#][#][ ][ ][ ][ ][ ][ ][ ][ ]
+`[#][#][#][#][ ][ ][ ][ ][ ][ ]`
 
 
 
 ## Legacies
 
-Discoveries [x][ ][ ][ ][ ][ ][ ][ ][ ][ ]  
-Quests [x][ ][ ][ ][ ][ ][ ][ ][ ][ ]  
-Bonds [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+Discoveries `[#][ ][ ][ ][ ][ ][ ][ ][ ][ ]`  
+Quests `[x][ ][ ][ ][ ][ ][ ][ ][ ][ ]`  
+Bonds `[ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]`
 
+Total XP: 2
+Unspent XP: 0
 
 
 ## Assets
@@ -71,9 +75,11 @@ Bonds [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
 
 Your glowcat companion perceives the inner emotions and intentions of people and creatures in its vicinity, and embodies those impressions through the colors and intensity of its luminescent fur. When you Secure an Advantage by studying the glowcat’s reactions in a charged interaction, you may add +your companion’s health.
 
+When you Compel, the glowcat’s reactions will help guide your approach. If the value of your action die is less than the glowcat’s health, you may reroll it.
+
 - Sorsha
-- Health: 3 [ ] 2 [ ] 1 [ ] 0 [ ]
-- Out of Action [ ]
+- Health: `3 [ ] 2 [ ] 1 [ ] 0 [ ]`
+- Out of Action `[ ]`
 
 
 
@@ -95,10 +101,10 @@ When you Gather Information or Resupply by scavenging a wreck, ruin, or abandone
 
 Your armed, multipurpose starship is suited for interstellar and atmospheric flight. It can comfortably transport several people, has space for cargo, and can carry and launch support vehicles. When you Advance, you may spend experience to equip this vehicle with module assets.
 
-- Sparrowhawk
+- *Sparrowhawk*
 - Taken while fleeing an attack or disaster.
 - Someone marked the hull with graffiti during a recent layover.
-- Integrity: 5 [ ] 4 [ ] 3 [ ] 2 [ ] 1 [ ] 0 [ ]
-- Battered [ ]
-- Cursed [ ]
+- Integrity: `5 [x] 4 [x] 3 [x] 2 [ ] 1 [ ] 0 [ ]`
+- Battered `[ ]`
+- Cursed `[ ]`
 

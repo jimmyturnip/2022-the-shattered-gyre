@@ -237,7 +237,7 @@ There's nothing he can do for this poor soul, so he stumbles on.
     Envision location. Roll on sanctum table. Repository of biological
     specimens.
 
-He passes through more corridors and into another chamber, and another sickening sight greets him. Along the walls are pods. Many are empty, but some are not. A sickly dim light from within each inhabited pod reveals a creature from his worst nightmares. Sharp-toothed maws, like fish from a lightless ocean; a pair of bulging green eyes; black metallic scaled skin; arms ending in claws of steel. What foul fetuses can these be? Were they once human, or some godless alien waiting for eternity to spring a trap against sinful explorers? Oh gods, please let them not be alive. Kylar stifles a retch before continuing on. Not far now.
+He passes through more corridors and into another chamber, and another sickening sight greets him. Along the walls are pods. Many are empty, but some are not. A sickly dim light from within each inhabited pod reveals a creature from his worst nightmares. Sharp-toothed maws, like fish from a lightless ocean; a pair of bulging green eyes; black metallic scaled skin; arms ending in claws of steel. What foul fetuses can these be? Were they once human, or some godless alien waiting for eternity to spring a trap against greedy explorers? Oh gods, please let them not be alive. Kylar stifles a retch before continuing on. Not far now.
 
     Finish an Expedition. Progress move. [9, 7] vs 8 progress. Weak hit.
     Mark 2 ticks on discovery track.
@@ -344,7 +344,7 @@ As the two emerge from the portal and back on to the surface of the structure, K
 > Wait, hold up. Buzzard, I've gotta tell you something.
 
 > BUZZARD  
-> Can this wait? I'm not going to unclench my buttocks until I'm on the Herald.
+> Can this wait? I'm not going to unclench my glutes until I'm on the Herald.
 
 > KYLAR  
 > It's the Fire Talons. I picked up a transmission. Said they're coming for the Herald. They're on their way.
@@ -366,10 +366,10 @@ He takes out his knife.
 The scavenger looks at him.
 
 > BUZZARD  
-> What, is this some crush you've got? Albatross, this is... this is a lot.
+> What, is this some kind of schoolboy crush you've got? Albatross, this is... this is a lot.
 
 > KYLAR  
-> No. Just listen to me. They're coming, and we're gonna make it back to Pinnacle. I swore on iron. Come with me. In the Sparrowhawk. Leave the Herald. 
+> What? No. I'm not even... Just listen to me. They're coming, and we're gonna make it back to Pinnacle. I swore on iron. Come with me. In the Sparrowhawk. Leave the Herald. 
 
     Compel. Roll +heart. [8, 3] vs 6. Weak hit. +1 momentum, but there's a
     demand or complication.
@@ -395,4 +395,4 @@ Buzzard pauses a moment.
 
 
 
-[Session X-1](https://github.com/jimmyturnip/[campaign-url]/blob/master/session-xx.md) | [Session X+1](https://github.com/jimmyturnip/[campaign-url]/blob/master/session-xx.md)
+[Session 2](https://github.com/jimmyturnip/20220107-the-shattered-gyre/blob/master/session-02.md)
